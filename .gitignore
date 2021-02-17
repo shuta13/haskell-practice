@@ -1,3 +1,10 @@
+*
+!*/
+!*.*
+
 .stack-work/
 practice.cabal
 *~
+
+/**/*.hi
+/**/*.o

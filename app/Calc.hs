@@ -9,3 +9,6 @@ square n = n * n
 calcJudge n = if even n
               then n - 2
               else 3 * n + 1
+
+main = do
+  print "Hello!"
